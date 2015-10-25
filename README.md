@@ -1,0 +1,2 @@
+# coptic
+Coptic morphological analysis
